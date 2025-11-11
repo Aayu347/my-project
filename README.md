@@ -1,3 +1,3 @@
 # my-project
-my first repository
-Aayush Rajpoot
+my first git repository.
+-Aayush Rajpoot
