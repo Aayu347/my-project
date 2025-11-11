@@ -1,3 +1,3 @@
 # my-project
 my first git repository.
--Aayush Rajpoot
+Author - Aayush Rajpoot
