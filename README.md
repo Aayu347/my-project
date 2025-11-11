@@ -1,2 +1,3 @@
 # my-project
-my first project
+my first repository
+Aayush Rajpoot
